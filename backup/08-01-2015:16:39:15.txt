@@ -1,0 +1,873 @@
+    1  sudo apt-get install libmysqlclient-dev
+    2  sudo dpkg-reconfigure mysql-server-5.5
+    3  sudo apt-get install mysql-server
+    4  sudo dpkg-reconfigure mysql-server-5.5
+    5  gem install rails
+    6  sudo apt-get install rubygems
+    7  gem install rails
+    8  sudo gem install rails
+    9  source ~/.rvm/scripts/rvm
+   10  sudo apt-get -y install postgresql postgresql-contrib
+   11  sudo su -postgres
+   12  sudo gdebi Sublime Text 2.0.2 x64.tar.bz2
+   13  ls
+   14  sudo gdebi mysql-workbench-community-6.1.7-1ubu1404-amd64.deb
+   15  sudo gdebi libctemplate0_0.97-1_amd64.deb
+   16  sudo gdebi google-chrome-stable_current_amd64.deb
+   17  echo "source ~/.rvm/scripts/rvm" >> ~/.bashrc
+   18  rvm install 2.1.1
+   19  rvm install ruby-2.1.1
+   20  \curl -L https://get.rvm.io | bash -s stable
+   21  rvm implode
+   22  \curl -L https://get.rvm.io | bash -s stable
+   23  \curl -sSL https://get.rvm.io | bash
+   24  sudo apt-get --purge remove ruby-rvm
+   25  sudo rm -rf /usr/share/ruby-rvm /etc/rvmrc /etc/profile.d/rvm.sh
+   26  env | grep rvm
+   27  \curl -L https://get.rvm.io |    bash -s stable --ruby --autolibs=enable --auto-dotfiles
+   28  rvm list
+   29  sudo apt-get install ruby-rvm 
+   30  source ~/.rvm/scripts/rvm f
+   31  source ~/.rvm/scripts/rvm
+   32  rvm requirements
+   33  sudo apt-get --no-install-recommends install build-essential openssl libreadline6 libreadline6-dev curl git-core zlib1g zlib1g-dev libssl-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt-dev autoconf libc6-dev libgdbm-dev ncurses-dev automake libtool bison subversion pkg-config libffi-dev
+   34  rvm get head
+   35  rvm list
+   36  rvm reload
+   37  rvm get head
+   38  rvm reload
+   39  sudo rm -rf $HOME/.rvm $HOME/.rvmrc /etc/rvmrc /etc/profile.d/rvm.sh   /usr/local/rvm /usr/local/bin/rvm
+   40  sudo /usr/sbin/groupdel rvm
+   41  env | grep rvm
+   42  curl -sSL https://get.rvm.io | bash -s stable
+   43  rvm list
+   44  rvm install ruby-2.1.1
+   45  rvm list
+   46  sudo gem install rails
+   47  sudo gem install rails 4.1
+   48  rvm list
+   49  sudo ruby -v
+   50  rvm use default ruby-2.1.1
+   51  /bin/bash --login
+   52  rvm use ruby-2.1.1
+   53  sudo gem install rails
+   54  sudo ruby-v
+   55  gem install rails
+   56  ls
+   57  cd netgym/
+   58  git clone https://beryl_netgym@bitbucket.org/beryl_netgym/netgym.git
+   59  git fetch && git checkout netgym_staging
+   60  cd netgym/
+   61  git fetch && git checkout netgym_staging
+   62  rails s
+   63  bundle install
+   64  gem install pg -v '0.17.1'
+   65  sudo apt-get install libpq-dev
+   66  gem install pg
+   67  bundle install
+   68  gem install rmagick -v '2.13.2'
+   69  sudo gem install rails
+   70  sudo apt-get update
+   71  root
+   72  sudo apt-get update
+   73  apt-get update
+   74  sudo apt-get update
+   75  sudo -i
+   76  sudo apt-get update
+   77  sudo apt-get install gdebi
+   78  wget download.skype.com/linux/skype-ubuntu-precise_4.3.0.37-1_i386.deb
+   79  sudo apt-get install ruby-rvm
+   80  sudo gdebi skype-ubuntu-precise_4.3.0.37-1_i386.deb
+   81  sudo apt-get install gdebi
+   82  sudo gdebi skype-ubuntu-precise_4.3.0.37-1_i386.deb
+   83  \curl -sSL https://get.rvm.io | bash -s stable --rails
+   84  sudo apt-get install curl
+   85  source ~/.rvm/scripts/rvm
+   86  rvm install ruby-2.1.1
+   87  sudo apt-get install ruby-rvm
+   88  rvm list
+   89  rvm install ruby-2.1.1
+   90  rvm list
+   91  rvm install ruby-2.1.1
+   92  bundle install --system
+   93  sudo apt-get install ruby-bundler
+   94  bundle install --system
+   95  rvm install ruby-2.1.1
+   96  sudo apt-get install ruby-bundler
+   97  bundle install --system
+   98  rvm install ruby-2.1.1
+   99  rvm requirements
+  100  sudo apt-get --no-install-recommends install build-essential openssl libreadline6 libreadline6-dev curl git-core zlib1g zlib1g-dev libssl-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt-dev autoconf libc6-dev libgdbm-dev ncurses-dev automake libtool bison subversion pkg-config libffi-dev
+  101  sudo  apt-get install ruby-rvm
+  102  rvm install ruby-2.1.1
+  103  rvm install 2.1.1
+  104  sudo gem install rails -v=4.1
+  105  sudo apt-get -y install ruby2.1
+  106  sudo apt-get -y install ruby-2.1.1
+  107  sudo apt-get -y install nodejs
+  108  rvm list
+  109  source ~/.rvm/scripts/rvm
+  110  sudo apt-get install wvdial
+  111  wvdial
+  112  sudo wvdialconf /etc/wvdial.conf 
+  113  wvdial
+  114  sudo wvdialconf /etc/wvdial.conf 
+  115  sudo wvdial
+  116  sudo sudo wvdial
+  117  sudo  gedit /etc/wvdial.conf 
+  118  sudo wvdialconf /etc/wvdial.conf 
+  119  sudo wvdial
+  120  sudo wvdialconf /etc/wvdial.conf 
+  121  sudo wvdial
+  122  wvdial
+  123  sudo wvdial
+  124  sudo wvdialconf /etc/wvdial.conf 
+  125  sudo wvdial
+  126  cp /etc/ppp/resolv.conf /etc/ 
+  127  sudo cp /etc/ppp/resolv.conf /etc/ 
+  128  sudo wvdialconf /etc/wvdial.conf 
+  129  sudo cp /etc/ppp/resolv.conf /etc/ 
+  130  sudo wvdial
+  131  cd /etc/
+  132  ls
+  133  rm resolv.conf 
+  134  sudo rm resolv.conf 
+  135  sudo wvdialconf /etc/wvdial.conf 
+  136  sudo wvdial
+  137  sudo wvdialconf /etc/wvdial.conf 
+  138  sudo wvdial
+  139  sudo wvdialconf /etc/wvdial.conf 
+  140  echo ATDT0001112222 > /dev/ttyUSB2
+  141  sudo echo ATDT0001112222 > /dev/ttyUSB2
+  142  echo ATDT0001112222 > /dev/ttyUSB2
+  143  sudo usb_modeswitch -c /etc/usb_modeswitch.d/12d1:1446 - See more at: http://opensource-sidh.blogspot.in/2011/12/how-to-use-or-connect-tata-photon-plus-in-ubuntu.html#sthash.GAV2PaxK.dpuf
+  144  cd
+  145  sudo wvdialconf /etc/wvdial.conf 
+  146  sudo wvdial
+  147  sudo wvdialconf /etc/wvdial.conf 
+  148  sudo wvdial
+  149  sudo wvdialconf /etc/wvdial.conf 
+  150  sudo wvdial
+  151  sudo wvdialconf /etc/wvdial.conf 
+  152  sudo wvdial
+  153  sudo wvdialconf /etc/wvdial.conf 
+  154  sudo wvdial
+  155  sudo wvdialconf /etc/wvdial.conf 
+  156  sudo wvdial
+  157  sudo apt-get install wvdial
+  158  apt-get autoremove
+  159  sudo apt-get autoremove
+  160  sudo apt-get install wvdial
+  161  sudo wvdialconf /etc/wvdial.conf 
+  162  sudo wvdial
+  163  sudo cp /etc/ppp/resolv.conf /etc/
+  164  cd /etc/
+  165  ls
+  166  sudo wvdialconf /etc/wvdial.conf 
+  167  sudo wvdial
+  168  sudo apt-get install wvdial gnome-ppp
+  169  sudo apt-get update 
+  170  sudo wvdialconf /etc/wvdial.conf 
+  171  sudo apt-get update 
+  172  sudo wvdial
+  173  sudo wvdialconf /etc/wvdial.conf 
+  174  sudo wvdial
+  175  sudo wvdialconf /etc/wvdial.conf 
+  176  sudo wvdial
+  177  sudo wvdialconf /etc/wvdial.conf 
+  178  sudo wvdial
+  179  sudo wvdialconf /etc/wvdial.conf 
+  180  sudo wvdial
+  181  sudo wvdialconf /etc/wvdial.conf 
+  182  sudo wvdial
+  183  sudo wvdialconf /etc/wvdial.conf 
+  184  sudo wvdial
+  185  sudo wvdialconf /etc/wvdial.conf 
+  186  sudo wvdial
+  187  sudo wvdialconf /etc/wvdial.conf 
+  188  sudo wvdial
+  189  ln -s /dev/537 /dev/ttyS537 
+  190  sudo ln -s /dev/537 /dev/ttyS537 
+  191  sudo wvdialconf /etc/wvdial.conf 
+  192  sudo wvdial
+  193  sudo wvdialconf /etc/wvdial.conf 
+  194  sudo wvdial
+  195  sudo wvdial
+  196  sudo wvdialconf /etc/wvdial.conf 
+  197  sudo wvdial
+  198  sudo wvdialconf /etc/wvdial.conf 
+  199  sudo wvdial
+  200  sudo wvdial
+  201  sudo wvdialconf /etc/wvdial.conf 
+  202  sudo wvdial
+  203  sudo wvdialconf /etc/wvdial.conf 
+  204  sudo wvdial
+  205  sudo wvdialconf /etc/wvdial.conf 
+  206  sudo wvdial
+  207  sudo wvdialconf /etc/wvdial.conf 
+  208  sudo wvdial
+  209  sudo wvdialconf /etc/wvdial.conf 
+  210  sudo wvdial
+  211  sudo wvdialconf /etc/wvdial.conf 
+  212  dmesg
+  213  sudo wvdial
+  214  sudo wvdialconf /etc/wvdial.conf 
+  215  sudo wvdial
+  216  sudo wvdialconf /etc/wvdial.conf 
+  217  sudo wvdial
+  218  sudo wvdialconf /etc/wvdial.conf 
+  219  sudo wvdial
+  220  sudo wvdialconf /etc/wvdial.conf 
+  221  sudo wvdial
+  222  lsusb
+  223  modprobe usbserial vendor=0x12d1 product=0x140b
+  224  sudo apt-get install libusb-dev
+  225  cd ..
+  226  ping google.com
+  227  sudo gedit /etc/wvdial.conf
+  228  sudo wvdialconf /etc/wvdial.conf 
+  229  A
+  230  sudo wvdialconf /etc/wvdial.conf 
+  231  ls
+  232  cd khushbu_machine_data/khushbu_machine_data
+  233  ls
+  234  cd ..
+  235  ls
+  236  cd
+  237  ssh-keygen -t rsa -C "khushbugcse@gmail.com"
+  238  cd ~/.ssh/
+  239  ls
+  240  vi id_rsa.pub 
+  241  psql
+  242  pg 0v
+  243  pg -v
+  244  cd
+  245  echo "deb http://apt.postgresql.org/pub/repos/apt/ precise-pgdg main" > /etc/apt/sources.list.d/pgdg.list
+  246  sudo echo "deb http://apt.postgresql.org/pub/repos/apt/ precise-pgdg main" > /etc/apt/sources.list.d/pgdg.list
+  247  wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+  248  sudo apt-get update
+  249  sudo apt-get install postgresql-9.3 postgresql-contrib-9.3
+  250  ps aux | grep apt
+  251  sudo apt-get update
+  252  sudo echo "deb http://apt.postgresql.org/pub/repos/apt/ precise-pgdg main" > /etc/apt/sources.list.d/pgdg.list
+  253  wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+  254  sudo apt-get install postgresql-9.3 postgresql-contrib-9.3
+  255  sudo apt-get install pg
+  256  apt-get install postgresql-9.3
+  257  sudo apt-get install postgresql-9.3
+  258  sudo apt-get install postgresql
+  259  sudo apt-get install postgresql postgresql-contrib
+  260  apt-get autoremove
+  261  sudo apt-get autoremove
+  262  sudo apt-get install postgresql postgresql-contrib
+  263  psql
+  264  sudo -u postgres psql
+  265  ls
+  266  cd /etc/
+  267  ls
+  268  cd postgresql
+  269  ls
+  270  cd 9.1/
+  271  ls
+  272  cd main/
+  273  ls
+  274  sudo nano pg_hba.conf 
+  275  pwd
+  276  service postgresql restart
+  277  sudo service postgresql restart
+  278  sudo -u postgres psql
+  279  cd khushbu_machine_data/khushbu_machine_data_old/
+  280  ls
+  281  cd khushboo/
+  282  ls
+  283  cd gaonic_project/
+  284  ls
+  285  mkdir code_15_dec
+  286  ls
+  287  cd code_15_dec/
+  288  ls
+  289  git clone https://crowdmap.unfuddle.com/git/crowdmap_gaonicnew/
+  290  rails c
+  291  ls
+  292  cd crowdmap_gaonicnew/
+  293  ls
+  294  /bin/bash --login
+  295  rails c
+  296  rvm list
+  297  bundle install
+  298  sudo wvdialconf /etc/wvdial.conf 
+  299  administrator
+  300  cd ..
+  301  ls
+  302  ssh -i netgym.pem ubuntu@ec2-54-148-155-220.us-west-2.compute.amazonaws.com
+  303  cd khushbu_machine_data/khushbu_machine_data_old/khushboo/netgym_project/
+  304  ls
+  305  cd code_16_dec/
+  306  ls
+  307  cd netgym/
+  308  git branch
+  309  git pull
+  310  git status
+  311  git commit -m "tracy city aded for new ip" app/models/user.rb
+  312  git push
+  313  cd
+  314  ssh root@162.242.232.216
+  315  git status
+  316  git commit -m "user password issue fixed" app/controllers/api/v1/users_controller.rb app/controllers/api/v2/users_controller.rb
+  317  git push origin dev_bridge
+  318  /bin/bash --login
+  319  cd khushbu_machine_data/khushbu_machine_data_old/khushboo/
+  320  ls
+  321  cd book-a-bottle/
+  322  ls
+  323  cd bit-bucket/
+  324  ls
+  325  mkdir code_19_dec
+  326  cd code_19_dec/
+  327  ls
+  328  git clone https://bookabottle1@bitbucket.org/berylsystems/bookabottle.git
+  329  ls
+  330  cd bookabottle/
+  331  ls
+  332  /bin/bash --login
+  333  git status
+  334  git add app/assets/javascripts/bootstrap-hover-dropdown.js app/assets/javascripts/bootstrap-hover-dropdown.min.js app/views/home/test.html.erb
+  335  git commit -m "navigation changes" app/assets/javascripts/bootstrap-hover-dropdown.js app/assets/javascripts/bootstrap-hover-dropdown.min.js app/views/home/test.html.erb config/routes.rb
+  336  git push origin new_layout
+  337  cd khushbu_machine_data/khushbu_machine_data_old/khushboo/slideco/code_15_dec/
+  338  ls
+  339  cd app/
+  340  /bin/bash --login
+  341  User.all
+  342  /bin/bash --login
+  343  cd khushbu_machine_data/khushbu_machine_data_old/khushboo/gaonic_project/code_15_dec/crowdmap_gaonicnew/
+  344  ls
+  345  /bin/bash --login
+  346  bundle install
+  347  rake routes
+  348  ifconfig
+  349  git status
+  350  git add db/migrate/20141219065321_add_referral_code_to_user.rb public/profanity.txt
+  351  git commit -m "referral code addition and pagination changes" db/migrate/20141219065321_add_referral_code_to_user.rb public/profanity.txt Gemfile app/assets/stylesheets/application.css app/controllers/bridge/accounts_controller.rb app/controllers/bridge/cards_controller.rb app/controllers/bridge/transfers_controller.rb app/controllers/bridge/users_controller.rb app/models/user.rb app/views/bridge/accounts/index.html.slim app/views/bridge/cards/index.html.slim app/views/bridge/transfers/index.html.slim app/views/bridge/users/index.html.slim
+  352  git push origin dev_bridge
+  353  git status
+  354  cd ..
+  355  mkdir code_19_dec
+  356  cd code_19_dec/
+  357  ls
+  358  git clone https://github.com/slideco/app.git
+  359  rails s
+  360  rails s -p 3010
+  361  rvm list
+  362  ls
+  363  rvm list
+  364  cd ..
+  365  cd bookabottle/
+  366  ls
+  367  rvm list
+  368  bundle install
+  369  gem install minitest -v '4.7.5'
+  370  rails g migration add_referral_code_to_user
+  371  rake db:migrate
+  372  rails c
+  373  cd
+  374  ssh root@162.242.232.216
+  375  ssh root@162.242.238.187
+  376  sudo wvdialconf /etc/wvdial.conf 
+  377  ssh root@162.242.238.187
+  378  sudo wvdialconf /etc/wvdial.conf 
+  379  sudo wvdial
+  380  rvm list
+  381  ls
+  382  cd khushbu_machine_data/khushbu_machine_data_old/
+  383  ls
+  384  cd vinay/
+  385  ls
+  386  cd ..
+  387  ls
+  388  cd Projects/
+  389  ls
+  390  cd ..
+  391  cd khushboo/
+  392  ls
+  393  cd test_app/
+  394  ls
+  395  rvm list
+  396  /bin/bash --login
+  397  rvm list
+  398  rvm use ruby-2.1.1
+  399  bunsle install
+  400  bundle install
+  401  rake db:create db:migrate
+  402  rails g controller home index
+  403  rails s -p 4000
+  404  ls
+  405  git branch
+  406  git branch -r
+  407  git pull
+  408  rm Gemfile app/assets/stylesheets/style.css app/assets/stylesheets/user_account.css app/controllers/api/portal_management_controller.rb app/controllers/application_controller.rb app/controllers/home_controller.rb app/controllers/registrations_controller.rb app/controllers/sensor_controller.rb app/helpers/home_helper.rb app/helpers/sensor_helper.rb app/models/portal_user.rb app/views/devise/passwords/new.html.erb app/views/home/_profile_box.html.erb app/views/home/_user_sensors.html.erb app/views/home/_weather_sensors.html.erb app/views/home/edit_profile.html.erb app/views/home/index.html.erb app/views/sensor/_chart.html.erb app/views/shared/_user_header.html.erb config/routes.rb app/assets/images/Delete_Icon.png app/assets/images/Descr.WD3 app/assets/images/Gaonic_Profile_Presentation.mp4 app/assets/images/Sensors-next-to-me_icon.png app/assets/images/add_graph_icon.png app/assets/images/add_sensor_icon.png app/assets/images/add_user.png app/assets/images/admin_icon.png app/assets/images/air_pollution.png app/assets/images/antenna.jpg app/assets/images/api_follow.png app/assets/images/api_token.png app/assets/images/apple-touch-icon-114-precomposed.html app/assets/images/apple-touch-icon-114-precomposed.png app/assets/images/apple-touch-icon-144-precomposed.html app/assets/images/apple-touch-icon-144-precomposed.png app/assets/images/apple-touch-icon-57-precomposed.html app/assets/images/apple-touch-icon-57-precomposed.png app/assets/images/apple-touch-icon-72-precomposed.html app/assets/images/apple-touch-icon-72-precomposed.png app/assets/images/arrow-down.png app/assets/images/arrow.png app/assets/images/arrow_top.png app/assets/images/attach.png app/assets/images/authors/Descr.WD3 app/assets/images/authors/author1.png app/assets/images/authors/author2.png app/assets/images/authors/author3.png app/assets/images/authors/author4.png app/assets/images/authors/author5.png app/assets/images/authors/author6.png app/assets/images/authors/smart_building.png app/assets/images/authors/smart_cities.png app/assets/images/authors/smart_convention_center.png app/assets/images/authors/smart_gas_station.png app/assets/images/authors/smart_grid.png app/assets/images/authors/smart_health.png app/assets/images/authors/smart_parking.png app/assets/images/authors/smart_roads.png app/assets/images/authors/smart_shopping_center.png app/assets/images/backgrounds/Descr.WD3 app/assets/images/backgrounds/section1-bg1.png app/assets/images/backgrounds/section1-bg2.png app/assets/images/backgrounds/section1-bg3.png app/assets/images/backgrounds/section2-bg1.png app/assets/images/backgrounds/section2-bg2.png app/assets/images/backgrounds/section2-bg3.png app/assets/images/backgrounds/section3-bg1.png app/assets/images/backgrounds/section3-bg2.png app/assets/images/backgrounds/section5-bg1.jpg app/assets/images/backgrounds/section5-bg2.png app/assets/images/backgrounds/section5-bg3.png app/assets/images/bg_header.png app/assets/images/bg_home_forms.jpg app/assets/images/bg_sensor2.png app/assets/images/bg_sub_nav_btn.png app/assets/images/big-cities-21.jpg app/assets/images/blue_star.png app/assets/images/bottom-arrow.png app/assets/images/btn-get-blue.png app/assets/images/btn-get-green.png app/assets/images/btn-get-orange.png app/assets/images/btn-signup-blue.png app/assets/images/btn-signup-green.png app/assets/images/btn-signup-orange.png app/assets/images/chart.png app/assets/images/chat_close.png app/assets/images/chat_header.png app/assets/images/chat_icon.png app/assets/images/continue_btn.png app/assets/images/convention_center.jpg app/assets/images/dashboard_icon.png app/assets/images/delete_btn.png app/assets/images/dispatcher.png app/assets/images/edit_icon.png app/assets/images/ehealth.jpg app/assets/images/email_icon.png app/assets/images/event_history.png app/assets/images/evnt_nxt.png app/assets/images/evnt_prev.png app/assets/images/fault_manager_icon.png app/assets/images/favicon.ico app/assets/images/fb_link.png app/assets/images/feedback_icon.png app/assets/images/filter.png app/assets/images/follow.png app/assets/images/follow_icon.png app/assets/images/gaonic_ticket.png app/assets/images/gas_station_1.jpg app/assets/images/generic.png app/assets/images/glyphicons-halflings.png app/assets/images/graph.png app/assets/images/gray_btn.png app/assets/images/gray_star.png app/assets/images/green_btn.png app/assets/images/green_dot.jpg app/assets/images/green_dot.png app/assets/images/green_star.png app/assets/images/green_tick.png app/assets/images/hardware_features.jpg app/assets/images/help_banner.jpg app/assets/images/humidity.png
+  409  git pull
+  410  rm app/assets/images/ico_less.png app/assets/images/ico_plus.png app/assets/images/icon_about_us.png app/assets/images/icon_applications.png app/assets/images/icon_blog.png app/assets/images/icon_business.png app/assets/images/icon_comment.png app/assets/images/icon_developers.png app/assets/images/icon_home.png app/assets/images/icon_products.png app/assets/images/icon_search.png app/assets/images/icon_setting.png app/assets/images/icon_star.png app/assets/images/img_map.jpg app/assets/images/img_or.png app/assets/images/ipad.png app/assets/images/iphone.png app/assets/images/job_ok.gif app/assets/images/job_pending.gif app/assets/images/job_resolved.gif app/assets/images/light.png app/assets/images/lock.png app/assets/images/logo-orange.png app/assets/images/logo.png app/assets/images/macbook.png app/assets/images/map-africa.jpg app/assets/images/map-australia_newzealand.jpg app/assets/images/map-brasil.jpg app/assets/images/map-china_japan.jpg app/assets/images/map-europe.jpg app/assets/images/map-india.jpg app/assets/images/map-israel.jpg app/assets/images/map.png app/assets/images/map_sensors.jpg app/assets/images/map_us.png app/assets/images/marker.png app/assets/images/message_board.png app/assets/images/meter-chart.jpg app/assets/images/network_manager_icon.png app/assets/images/noise.png app/assets/images/notes_icon.png app/assets/images/parking.png app/assets/images/patterns/Descr.WD3 app/assets/images/patterns/grid.png app/assets/images/patterns/noisy_grid.png app/assets/images/payment_sent.png app/assets/images/pdf_icon.png app/assets/images/pencil_small.png app/assets/images/plus_icon.png app/assets/images/pointer.png app/assets/images/power_meter.png app/assets/images/product.jpg app/assets/images/profile-image.png app/assets/images/pwd_button.gif app/assets/images/radiation.png app/assets/images/rails.png app/assets/images/red_btn.png app/assets/images/red_cross.png app/assets/images/red_dot.jpg app/assets/images/red_dot.png app/assets/images/refresh_btn.png app/assets/images/remove_graph_icon.png app/assets/images/remove_sensor_icon.png app/assets/images/report_icon.png app/assets/images/reports_icon.png app/assets/images/search-bar.png app/assets/images/search-icon.png app/assets/images/search_icon.png app/assets/images/searchbox.png app/assets/images/searchfield.png app/assets/images/searchfiled-close.png app/assets/images/sensor.png app/assets/images/sensor_graph.jpg app/assets/images/sensors_next_to_me.png app/assets/images/service-drop-blue.png app/assets/images/service-drop-green.png app/assets/images/service-drop-orange.png app/assets/images/service-drop-shadow.png app/assets/images/setting_icon.png app/assets/images/settings.png app/assets/images/shopping_center.jpg app/assets/images/signin_btn.png app/assets/images/signup_btn.png app/assets/images/slides/Descr.WD3 app/assets/images/slides/slide-1.jpg app/assets/images/slides/slide-2.jpg app/assets/images/slides/slide-3.jpg app/assets/images/smart_building_img.jpg app/assets/images/smart_grid.jpg app/assets/images/smart_phone.png app/assets/images/social-facebook.png app/assets/images/social-linked.png app/assets/images/social-shadow.png app/assets/images/social-twitter.png app/assets/images/software_features.jpg app/assets/images/star-on.png app/assets/images/statistics_icon.png app/assets/images/status_0.png app/assets/images/status_1.png app/assets/images/status_2.png app/assets/images/switch-ipad.png app/assets/images/switch-iphone.png app/assets/images/switch-macbook.png app/assets/images/system_status.png app/assets/images/tab_admin_regular.png app/assets/images/tab_admin_selected.png app/assets/images/tab_dashboard_regular.png app/assets/images/tab_dashboard_selected.png app/assets/images/tab_eventmanager_regular.png app/assets/images/tab_networkmanager_regular.png app/assets/images/tab_networkmanager_selected.png app/assets/images/tab_reports_regular.png app
+  411  git status
+  412  git pull
+  413  rm app/assets/images/temperature.png app/assets/images/term_del.png app/assets/images/threshold_icon.png app/assets/images/thumbnails/Descr.WD3 app/assets/images/thumbnails/thumb01.jpg app/assets/images/thumbnails/thumb02.jpg app/assets/images/thumbnails/thumb03.jpg app/assets/images/thumbnails/thumb04.jpg app/assets/images/thumbnails/thumb05.jpg app/assets/images/thumbnails/thumb06.jpg app/assets/images/thumbnails/thumb07.jpg app/assets/images/thumbnails/thumb08.jpg app/assets/images/thumbnails/thumb09.jpg app/assets/images/thumbnails/thumb10.jpg app/assets/images/thumbnails/thumb11.jpg app/assets/images/thumbnails/thumb12.jpg app/assets/images/time_dots.png app/assets/images/top-arrow.png app/assets/images/top_nav_divider.png app/assets/images/twitter_link.png app/assets/images/unknown.png app/assets/images/water.png app/assets/images/weather_next_to_me_icon.png app/assets/images/weather_next_to_sensor.png app/assets/images/wind.png app/assets/images/wireless.png app/assets/images/yellow_btn.png app/assets/images/yellow_dot.jpg app/assets/images/yellow_dot.png app/assets/images/yellow_star.png app/views/devise/passwords/_edit.html.erb app/views/devise/passwords/edit.js.erb app/views/sensor/_sensor_info_on_dashboard.html.erb
+  414  git pull
+  415  /bin/bash --login
+  416  rake db:migrate
+  417  git status
+  418  git add app/assets/javascripts/password_validator.js
+  419  git commit -m "password strength changes" app/assets/javascripts/password_validator.js app/assets/stylesheets/style.css app/views/devise/registrations/new.html.erb
+  420  git push
+  421  git status
+  422  git commit -m "gaonic portal favicon icon changes" app/views/layouts/application.html.erb config/routes.rb
+  423  git push
+  424  rails c
+  425  git status
+  426  git commit -m "css changes" app/assets/stylesheets/style.css app/assets/stylesheets/user_account.css app/models/portal_user.rb app/views/portal_advanced/create_message.html.erb
+  427  git push
+  428  git status
+  429  git commit -m "css changes" app/views/shared/_billboard.html.erb
+  430  git push
+  431  rails c
+  432  git status
+  433  git commit -m "user activate account changes" app/controllers/home_controller.rb app/controllers/portal_advanced_controller.rb
+  434  git push
+  435  ssh root@104.130.141.221
+  436  /bin/bash --login
+  437  /bin/bash --login
+  438  cd khushbu_machine_data/khushbu_machine_data_old/khushboo/
+  439  ls
+  440  cd netgym_project/
+  441  ls
+  442  cd code_16_dec/
+  443  ls
+  444  cd netgym/
+  445  git branch
+  446  git branch -r
+  447  git checkout netgym_staging
+  448  git branch
+  449  git pull
+  450  git pull origin netgym_staging
+  451  ls
+  452  /bin/bash --login
+  453  cd khushbu_machine_data/khushbu_machine_data_old/khushboo/slideco/
+  454  ls
+  455  cd code_19_dec/
+  456  ls
+  457  cd app/
+  458  ls
+  459  git branch
+  460  git status
+  461  git branch
+  462  git branch -r
+  463  git pull
+  464  git checkout dev_bridge
+  465  rails s -p 3005
+  466  /bin/bash --login
+  467  cd khushbu_machine_data/khushbu_machine_data_old/khushboo/
+  468  ls
+  469  cd gaonic_project/
+  470  ls
+  471  cd code_15_dec/crowdmap_gaonicnew/
+  472  ls
+  473  /bin/bash --login
+  474  cd ../..
+  475  ls
+  476  cd code_15_dec/app/
+  477  ls
+  478  git branch
+  479  git status
+  480  git add app/views/bridge/admin/
+  481  git commit -m "search module changes" app/views/bridge/admin/ app/controllers/bridge/admin_controller.rb app/views/bridge/shared/_header.html.slim config/routes.rb lib/encryption_iv_api.rb
+  482  git push
+  483  git pull
+  484  git push
+  485  git branch
+  486  git pull origin dev_bridge
+  487  git push origin dev_bridge
+  488  git status
+  489  git diff Gemfile
+  490  git branch
+  491  git pull
+  492  git pull origin dev_bridge
+  493  /bin/bash --login
+  494  cd
+  495  ssh root@104.236.111.12
+  496  cd khushbu_machine_data/khushbu_machine_data_old/khushboo/gaonic_project/5_may/portal_code/crowdmap_gaonicportal/
+  497  ls
+  498  rails s -p 3005
+  499  /bin/bash --login
+  500  git status
+  501  git add app/assets/javascripts/jquery.slicknav.js app/assets/javascripts/jquery.slicknav.min.js app/assets/stylesheets/slicknav.css app/assets/stylesheets/style.css
+  502  git commit -m "responsive navigation changes" app/assets/javascripts/jquery.slicknav.js app/assets/javascripts/jquery.slicknav.min.js app/assets/stylesheets/slicknav.css app/assets/stylesheets/style.css app/assets/javascripts/bootstrap-hover-dropdown.js app/assets/javascripts/bootstrap-hover-dropdown.min.js app/views/home/test.html.erb app/views/layouts/application.html.erb
+  503  git diff app/assets/stylesheets/bootstrap.css
+  504  git push
+  505  git status
+  506  git diff Gemfile
+  507  git commit -m "gemfile repetitive gem deletion changes" Gemfile
+  508  git push
+  509  git status
+  510  git branch
+  511  rails c
+  512  /bin/bash --login
+  513  cd
+  514  ssh root@162.242.232.216
+  515  rake routes
+  516  /bin/bash --login
+  517  git status
+  518  git commit -m "fb like changes" app/views/home/_homepage.html.erb
+  519  git branch
+  520  git push origin netgym_staging
+  521  git branch
+  522  git status
+  523  git commit -m "events changes" app/views/pages/_events.html.erb
+  524  git push origin netgym_staging
+  525  ifconfig
+  526  /bin/bash --login
+  527  bundle install
+  528  rvm list
+  529  rails s
+  530  bundle install
+  531  rails s
+  532  rails c
+  533  rails s
+  534  git branch
+  535  git pull origin netgym_staging
+  536  git diff app/models/user.rb
+  537  rm app/models/user.rb app/views/media/create_post.js.erb app/views/shared/_user_home.html.erb app/views/user_info/dashboard.html.erb
+  538  git pull origin netgym_staging
+  539  rails s
+  540  rake jobs:work
+  541  git branch
+  542  git status
+  543  git commit -m "user delete changes" app/models/user.rb app/models/activity.rb
+  544  git push origin netgym_staging
+  545  git diff app/controllers/media_controller.rb
+  546  git status
+  547  git commit -m "dependent destroy changes" app/controllers/media_controller.rb app/models/event.rb app/models/event_detail.rb app/models/post.rb app/models/review.rb app/models/user.rb app/models/social_media_profile.rb
+  548  git push origin netgym_staging
+  549  git status
+  550  rails s -p 3005
+  551  rvm list
+  552  ruby -v
+  553  /bin/bash --login
+  554  rails s -p 3005
+  555  rails s
+  556  git pull
+  557  rails s
+  558  git pull
+  559  rails s
+  560  git commit
+  561  git remote -v
+  562  git remote set-url origin https://github.com/slidenetwork/app.git
+  563  git remote -v
+  564  git remote set-url origin git@github.com:slidenetwork/app.git
+  565  git remote -v
+  566  rails s
+  567  rvm list
+  568  rvm use ruby-1.9.3-p551
+  569  bundle install
+  570  rake db:create db:migrate db:seed
+  571  rails s -p 3005
+  572  bundle install
+  573  rails s -p 3005
+  574  rails s -p 3010
+  575  rvm list
+  576  rails -v
+  577  rails s -p 3010
+  578  rake jobs:work
+  579  git branch
+  580  git checkout -b solar_web_services
+  581  git checkout master
+  582  git status
+  583  git commit -m "twilio sms sending changes" app/controllers/application_controller.rb app/controllers/sensor_controller.rb app/controllers/smart_grid_controller.rb app/controllers/smart_unique_control_controller.rb app/models/send_sms2.rb lib/send_auto_notification.rb lib/send_sms.rb lib/tasks/collector_meter_parser.rake
+  584  git push origin master
+  585  git checkout solar_web_services
+  586  git branch
+  587  git branch -r
+  588  git pull origin master
+  589  git branch
+  590  rails g migration add_predict_cols_to_sensor
+  591  git branch
+  592  git checkout new_layout
+  593  git commit -m "routes changes" config/routes.rb
+  594  git checkout new_layout
+  595  git status
+  596  git commit -m "error page changes" public/500.html
+  597  git push origin new_layout
+  598  git branch
+  599  git checkout solar_web_services
+  600  rails s
+  601  rails c
+  602  git branch
+  603  git pull origin new_layout
+  604  git pull origin master
+  605  git pull origin te_ui
+  606  git branch
+  607  git status
+  608  git commit -m 
+  609  git status
+  610  git diff app/assets/stylesheets/bootstrap.css
+  611  git status
+  612  ifconfig
+  613  git status
+  614  git commit -m "responsive nav changes" app/assets/javascripts/jquery.slicknav.min.js app/assets/stylesheets/style.css app/views/home/test.html.erb config/routes.rb
+  615  git push
+  616  git status
+  617  git pull
+  618  git branch
+  619  git pull origin new_layout
+  620  git status
+  621  git commit -m "js changes" app/views/layouts/application.html.erb app/views/shared/_smart_grid_header.html.erb
+  622  git push origin new_layout
+  623  git status
+  624  git commit -m "responsive nav bar for all ui changes" app/assets/stylesheets/responsive.css app/views/shared/_industries_ui_header.html.erb app/views/shared/_smart_grid_header.html.erb app/views/shared/_smart_solar_header.html.erb
+  625  git push origin new_layout
+  626  git branch
+  627  git checkout master
+  628  git status
+  629  git commit -m "sens sms changes" lib/tasks/collector_meter_parser.rake
+  630  git push origin master
+  631  git commit -m "sens sms changes" lib/tasks/collector_meter_parser.rake
+  632  git push origin master
+  633  /bin/bash --login
+  634  /bin/bash --login
+  635  ssh root@188.226.228.16
+  636  cd
+  637  cd /tmp/
+  638  ls
+  639  gedit mini_magick20141229-15120-3q6dua.jpg
+  640  pwd
+  641  cd ..
+  642  ifconfig 
+  643  ifconfig eth0
+  644  ifconfig eth0 stop
+  645  ifconfig eth0
+  646  tar vxjf Sublime\ Text\ 2.0.2\ x64.tar.bz2
+  647  sudo mv Sublime\ Text\ 2 /opt/
+  648  sudo ln -s /opt/Sublime\ Text\ 2/sublime_text /usr/bin/sublime
+  649  wget http://c758482.r82.cf2.rackcdn.com/Sublime\ Text\ 2.0.2\ x64.tar.bz2
+  650  tar vxjf Sublime\ Text\ 2.0.2\ x64.tar.bz2
+  651  sudo mv Sublime\ Text\ 2 /opt/
+  652  sudo ln -s /opt/Sublime\ Text\ 2/sublime_text /usr/bin/sublime
+  653  cd FOMO/
+  654  ls
+  655  cd twitter-search/
+  656  git fetch && git checkout twitter_new_layout
+  657  ls
+  658  rake db:seed
+  659  sudo apt-get install rake
+  660  rake db:seed
+  661  sudo apt-get install rake
+  662  rake db:seed
+  663  rails s
+  664  sudo apt-get install rails
+  665  ifconfig 
+  666  /etc/init.d/network status
+  667  /etc/init.d/networking  status
+  668  /etc/init.d/networking  stop
+  669  /etc/init.d/networking  start
+  670  git clone git@bitbucket.org:Priyankadhingra/twitter-search.git
+  671  ssh-keygen -t rsa -C "priyanka.dhingra@berylsystems.com"
+  672  cat ~/.ssh/id_rsa.pub
+  673  git clone git@bitbucket.org:Priyankadhingra/twitter-search.git
+  674  ls
+  675  mkdir FOMO
+  676  cd FOMO/
+  677  git clone git@bitbucket.org:Priyankadhingra/twitter-search.git
+  678  ssh-keygen -t rsa -C "vinay@berylsystems.com"
+  679  cat ~/.ssh/id_rsa.pub
+  680  git clone git@bitbucket.org:Priyankadhingra/twitter-search.git
+  681  git clone https://Priyankadhingra@bitbucket.org/Priyankadhingra/twitter-search.git
+  682  echo $ PATH
+  683  $ps
+  684  which Pictures
+  685  ls
+  686  ls-l
+  687  which Music
+  688  whereis ls
+  689  locate Music
+  690  ps
+  691  ps-eaf
+  692  id
+  693  w
+  694  df
+  695  du -s
+  696  top
+  697  free
+  698  uname
+  699  uname -a
+  700  ls -l
+  701  ls
+  702  ls -l --color
+  703  -h
+  704  -help
+  705  ls -help
+  706  grep -help
+  707  man ls
+  708  man man
+  709  man permission
+  710  man -k permission
+  711  info df
+  712  info ls
+  713  pinfo ls
+  714  ls -l usr/bin
+  715  ls -l /usr/bin
+  716  ls -a
+  717  ls -ld /usr/bin
+  718  ls -l
+  719  ls -la |less
+  720  history
+  721  $./test.sh
+  722  What is your name?
+  723  Zara Ali
+  724  Hello, Zara Ali
+  725  $./test.sh
+  726  $./test.sh what is your name? surbhi hello, surbhi $
+  727  ./test.sh
+  728  ls
+  729  mkdir surbhi
+  730  ls
+  731  cd surbhi
+  732  #!/bin/bash
+  733  echo hello
+  734  vi surbhi
+  735  cd/usr/bin
+  736  cd
+  737  /surbhi
+  738  cd /surbhi
+  739  cd user/bin
+  740  cd /bin
+  741  ls s*
+  742  ls
+  743  ls p*
+  744  cd bin
+  745  pwd
+  746  cp linux.odt newlinux.odt 
+  747  cp -r bin newbin
+  748  co -r /bin newbin
+  749  cd surbhi
+  750  cp linux.odt newl.dot
+  751  cp -r surbhi news
+  752  cp linux.odt hnew.odt
+  753  mv hnew.odt pp.odt
+  754  rm pp.odt
+  755  cat linux.odt hnew.odt
+  756  62;9;c
+  757  cat linux.odt hnew.odt>yoyo.odt
+  758  cat linux.odt newl.odt>yo.odt
+  759  more newl.odt
+  760  more linux.odt
+  761  ps -aux
+  762  dd
+  763  du
+  764  fsck
+  765  lp
+  766  ip
+  767  uname
+  768  uname -a
+  769  who
+  770  whoami
+  771  date
+  772  quota
+  773  vi linux.odt
+  774  cd surbhi
+  775  vi linux.odt
+  776  echo $$
+  777  nano surbhi.sh
+  778  ipconfig
+  779  ifconfig
+  780  ipconfig
+  781  ifconfig
+  782  nano forloop.sh
+  783  chmod +x forloop.sh
+  784  ./forloop.sh
+  785  scp forloop.sh surbhi.sh
+  786  nano whileloop.sh
+  787  chmod +x whileloop.sh
+  788  ./whileloop.sh
+  789  scp whileloop.sh forloop.sh
+  790  scp whileloop.sh user@remotehost:/remote/directory/
+  791  nano substitution.sh
+  792  chmod +x substitution.sh
+  793  ./substitution.sh
+  794  nano substitution.sh
+  795  chmod +x substitution.sh
+  796  ./substitution.sh
+  797  nano substitution.sh
+  798  chmod +x substitution.sh
+  799  ./substitution.sh
+  800  nano substitution.sh
+  801  nano svariables.sh
+  802  chmod +x svariables.sh
+  803  ./svariables zara ali
+  804  ./svariables.sh zara ali
+  805  ./svariables.sh priyanka bhutani
+  806  nano svariables.sh
+  807  chmod +x svariables.sh
+  808  ./svariables.sh priyanka bhutani ymca
+  809  nano svariables.sh
+  810  chmod +x svariables.sh
+  811  ./svariables.sh priyanka bhutani ymca
+  812  nano svariables.sh
+  813  ls -al ~/.ssh
+  814  ssh-keygen -t rsa -C "priyanka.bhutani@berylsystems.com"
+  815  ls -al ~/.ssh
+  816  ssh-keygen -t rsa -C "priyanka.bhutani@berylsystems.com"
+  817  ls
+  818  cd ~/.ssh/
+  819  ls
+  820  vi id_rsa.pub 
+  821  ssh -T git@github.com
+  822  cd gitfile
+  823  vi gitfolder
+  824  vi git1folder
+  825  vi git2folder
+  826  git init
+  827  git add .
+  828  git commit -m "add "
+  829  git init
+  830  git
+  831  mkdir git1
+  832  vi test1
+  833  mkdir apple
+  834  mkdir new 
+  835  mkdir createnow
+  836  vi hello
+  837  vi text
+  838  vi neww
+  839  git init
+  840  git add .
+  841  cd priyanka
+  842  cd PRIYANKA
+  843  vi test.txt
+  844  git init
+  845  git add test.txt
+  846  git commit -m "first commit"
+  847  git remote add origin https://github.com/bhutanipriyanka/newgroup.git
+  848  git push -u origin master
+  849  vi created
+  850  git init
+  851  git add created.txt
+  852  vi newly.txt
+  853  git init
+  854  git add newly.txt
+  855  git commit -m "secnd commit"
+  856  git remote add origin https://github.com/bhutanipriyanka/newgroup2.gi
+  857  git commit -m "secnd commit"
+  858  git add .
+  859  cd PRIYANKA
+  860  vi practice1.txt
+  861  git init
+  862  git add .
+  863  git commit -m "first commit"
+  864  git config --global user.name "Your Name"
+  865  git remote add origin https://github.com/bhutanipriyanka/newgroup2.git
+  866  git push -u origin master
+  867  history
+  868  mkdir backup
+  869  cd backup
+  870  `touch $(date +"%d-%m-%Y:%T")`.txt
+  871  touch $(date +"%d-%m-%Y:%T").txt
+  872  ls
+  873  history > 08-01-2015:16:39:15.txt
