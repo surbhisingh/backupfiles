@@ -1,0 +1,162 @@
+    1  wget download.skype.com/linux/skype-ubuntu-precise_4.3.0.37-1_i386.deb
+    2  sudo gdebi skype-ubuntu-precise_4.3.0.37-1_i386.deb
+    3  sudo apt-get install gdebi-core
+    4  sudo gdebi skype-ubuntu-precise_4.3.0.37-1_i386.deb
+    5  ip
+    6  echo $$
+    7  0
+    8  o
+    9  n
+   10  3
+   11  #
+   12  ?
+   13  !
+   14  $!
+   15  nano yoyo.sh
+   16  ./yoyo.sh
+   17  chmod +x yoyo.sh
+   18  ./yoyo.sh
+   19  clear
+   20  chmod +x yoyo.sh
+   21  ./yoyo.sh
+   22  chmod +x yoyo.sh
+   23  chmod +x yoyo.sh surbhi singh happy
+   24  yoyo.sh
+   25  chmod +x yoyo.sh 
+   26  ./yoyo.sh surbhi isngh sad
+   27  chmod +x yoyo.sh 
+   28  ./yoyo.sh
+   29  nano yoyo.sh
+   30  chmod +x yoyo.sh 
+   31  nano yoyo.sh  ii mm aa
+   32  chmod +x yoyo.sh 
+   33  nano yoyo.sh 
+   34  nano yoyo.sh  
+   35  chmod +x yoyo.sh 
+   36  ./yoyo.sh ii mm ss
+   37  nano yoyo.sh
+   38  chmod +x yoyo.sh 
+   39  ./yoyo.sh ii mm ss
+   40  nano yoyo.sh
+   41  chmod +x yoyo.sh 
+   42  ./yoyo.sh ii mm ss
+   43  nano yoyo.sh
+   44  chmod +x yoyo.sh 
+   45  ./yoyo.sh ii mm ss
+   46  clear
+   47  man ssh
+   48  ls -al ~/.ssh
+   49  ssh-keygen -t rsa -C "surbhi.singh@berylsystems.com"
+   50  cd ~/.ssh
+   51  cd /home/bsuser1/.ssh
+   52  sudo cd /home/bsuser1/.ssh
+   53  ls -al ~/.ssh
+   54  sudo ls -al ~/.ssh
+   55  ls
+   56  ls -a
+   57  pwd
+   58  mkdir .ssh
+   59  ls
+   60  ls -a
+   61  cd .ssh/
+   62  ls
+   63  ssh-keygen -t rsa -C "surbhi.singh@berylsystems.com"
+   64  ls
+   65  vi surbhi.pub
+   66  ssh -T git@github.com
+   67  ls
+   68  ..
+   69  cd surbhi
+   70  mkdir surbhigit
+   71  ssh -T git@github.com
+   72  vi file1
+   73  cd surbhi
+   74  ..
+   75  ls
+   76  rm ./ssh
+   77  rm /.ssh
+   78  cd surbhi
+   79  vi file1
+   80  git init
+   81  sudo apt-get update
+   82  sudo apt-get install git
+   83  git init
+   84  git add .
+   85  git commit -m "first commit"
+   86  git config --global user.email "you@example.com"
+   87  git config --global user.email "surbhi.singh@berylsystems.com"
+   88  git config --global user.name "Your Name"
+   89  git config --global user.name "Surbhi Singh"
+   90  git commit -m "first commit"
+   91  git remote add origin https://github.com/surbhisingh/practice.git
+   92  git push -u origin master
+   93  vi happy.txt
+   94  git init
+   95  git add .
+   96  git commit -m "1st commit"
+   97  git remote add origin https://github.com/surbhisingh/practice.git
+   98  git push -u origin master
+   99  cd surbhi
+  100  mkdir shellscripting
+  101  cd shellscripting
+  102  nano loop.sh
+  103  chmod +x loop.sh
+  104  ./loop.sh
+  105  nano forloop.sh
+  106  chmod +x forloop.sh
+  107  ./forloop.sh
+  108  nano untilloop.sh
+  109  chmod +x untilloop.sh
+  110  ./untilloop.sh
+  111  git init
+  112  git add .
+  113  git commit -m "shellscript commit"
+  114  git remote add origin https://github.com/surbhisingh/practice.git
+  115  git push -u origin master
+  116  git pull
+  117  git push -u origin master
+  118  cd surbhi
+  119  git init
+  120  git add .
+  121  git commit -m "my firsdt commit"
+  122  git remote add origin https://github.com/surbhisingh/practice
+  123  git push -u origin master
+  124  ..
+  125  .
+  126  cd ..
+  127  mkdir retrieve
+  128  git clone https://github.com/surbhisingh/practice
+  129  git status
+  130  cd retrieve
+  131  git clone https://github.com/surbhisingh/practice.git
+  132  git status
+  133  cd..
+  134  cd ..
+  135  cd surbhi
+  136  git status
+  137  ls -al ~/.ssh
+  138  ssh-keygen -t rsa -C "priyanka.bhutani@berylsystems.com"
+  139  cd priyanka
+  140  git clone https://github.com/bhutanipriyanka/practice1
+  141  pwd
+  142  ls
+  143  mysql -u root -p
+  144  mysql _u root _p
+  145  mysql -u root -p
+  146  id
+  147  sudo su
+  148  whoami 
+  149  mysql -u root -p
+  150  history
+  151  vi touch $(date +"%d-%m-%Y:%T").txt
+  152  cd backup
+  153  vi touch $(date +"%d-%m-%Y:%T").txt
+  154  ls
+  155  vi touch $(date +"%d-%m-%Y:%T").txt
+  156  cd backup
+  157  vi touch $(date +"%d-%m-%Y:%T").txt
+  158  ls
+  159  touch$(date +"%d-%m-%Y:%T").txt
+  160  vi  touch$(date +"%d-%m-%Y:%T").txt
+  161  ls
+  162  history > 14-01-2015:10:33:05.txt 
