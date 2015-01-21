@@ -1,0 +1,406 @@
+    1  wget download.skype.com/linux/skype-ubuntu-precise_4.3.0.37-1_i386.deb
+    2  sudo gdebi skype-ubuntu-precise_4.3.0.37-1_i386.deb
+    3  sudo apt-get install gdebi-core
+    4  sudo gdebi skype-ubuntu-precise_4.3.0.37-1_i386.deb
+    5  ip
+    6  echo $$
+    7  0
+    8  o
+    9  n
+   10  3
+   11  #
+   12  ?
+   13  !
+   14  $!
+   15  nano yoyo.sh
+   16  ./yoyo.sh
+   17  chmod +x yoyo.sh
+   18  ./yoyo.sh
+   19  clear
+   20  chmod +x yoyo.sh
+   21  ./yoyo.sh
+   22  chmod +x yoyo.sh
+   23  chmod +x yoyo.sh surbhi singh happy
+   24  yoyo.sh
+   25  chmod +x yoyo.sh 
+   26  ./yoyo.sh surbhi isngh sad
+   27  chmod +x yoyo.sh 
+   28  ./yoyo.sh
+   29  nano yoyo.sh
+   30  chmod +x yoyo.sh 
+   31  nano yoyo.sh  ii mm aa
+   32  chmod +x yoyo.sh 
+   33  nano yoyo.sh 
+   34  nano yoyo.sh  
+   35  chmod +x yoyo.sh 
+   36  ./yoyo.sh ii mm ss
+   37  nano yoyo.sh
+   38  chmod +x yoyo.sh 
+   39  ./yoyo.sh ii mm ss
+   40  nano yoyo.sh
+   41  chmod +x yoyo.sh 
+   42  ./yoyo.sh ii mm ss
+   43  nano yoyo.sh
+   44  chmod +x yoyo.sh 
+   45  ./yoyo.sh ii mm ss
+   46  clear
+   47  man ssh
+   48  ls -al ~/.ssh
+   49  ssh-keygen -t rsa -C "surbhi.singh@berylsystems.com"
+   50  cd ~/.ssh
+   51  cd /home/bsuser1/.ssh
+   52  sudo cd /home/bsuser1/.ssh
+   53  ls -al ~/.ssh
+   54  sudo ls -al ~/.ssh
+   55  ls
+   56  ls -a
+   57  pwd
+   58  mkdir .ssh
+   59  ls
+   60  ls -a
+   61  cd .ssh/
+   62  ls
+   63  ssh-keygen -t rsa -C "surbhi.singh@berylsystems.com"
+   64  ls
+   65  vi surbhi.pub
+   66  ssh -T git@github.com
+   67  ls
+   68  ..
+   69  cd surbhi
+   70  mkdir surbhigit
+   71  ssh -T git@github.com
+   72  vi file1
+   73  cd surbhi
+   74  ..
+   75  ls
+   76  rm ./ssh
+   77  rm /.ssh
+   78  cd surbhi
+   79  vi file1
+   80  git init
+   81  sudo apt-get update
+   82  sudo apt-get install git
+   83  git init
+   84  git add .
+   85  git commit -m "first commit"
+   86  git config --global user.email "you@example.com"
+   87  git config --global user.email "surbhi.singh@berylsystems.com"
+   88  git config --global user.name "Your Name"
+   89  git config --global user.name "Surbhi Singh"
+   90  git commit -m "first commit"
+   91  git remote add origin https://github.com/surbhisingh/practice.git
+   92  git push -u origin master
+   93  vi happy.txt
+   94  git init
+   95  git add .
+   96  git commit -m "1st commit"
+   97  git remote add origin https://github.com/surbhisingh/practice.git
+   98  git push -u origin master
+   99  cd surbhi
+  100  mkdir shellscripting
+  101  cd shellscripting
+  102  nano loop.sh
+  103  chmod +x loop.sh
+  104  ./loop.sh
+  105  nano forloop.sh
+  106  chmod +x forloop.sh
+  107  ./forloop.sh
+  108  nano untilloop.sh
+  109  chmod +x untilloop.sh
+  110  ./untilloop.sh
+  111  git init
+  112  git add .
+  113  git commit -m "shellscript commit"
+  114  git remote add origin https://github.com/surbhisingh/practice.git
+  115  git push -u origin master
+  116  git pull
+  117  git push -u origin master
+  118  cd surbhi
+  119  git init
+  120  git add .
+  121  git commit -m "my firsdt commit"
+  122  git remote add origin https://github.com/surbhisingh/practice
+  123  git push -u origin master
+  124  ..
+  125  .
+  126  cd ..
+  127  mkdir retrieve
+  128  git clone https://github.com/surbhisingh/practice
+  129  git status
+  130  cd retrieve
+  131  git clone https://github.com/surbhisingh/practice.git
+  132  git status
+  133  cd..
+  134  cd ..
+  135  cd surbhi
+  136  git status
+  137  ls -al ~/.ssh
+  138  ssh-keygen -t rsa -C "priyanka.bhutani@berylsystems.com"
+  139  cd priyanka
+  140  git clone https://github.com/bhutanipriyanka/practice1
+  141  pwd
+  142  ls
+  143  mysql -u root -p
+  144  mysql _u root _p
+  145  mysql -u root -p
+  146  id
+  147  sudo su
+  148  whoami 
+  149  mysql -u root -p
+  150  history
+  151  vi touch $(date +"%d-%m-%Y:%T").txt
+  152  cd backup
+  153  vi touch $(date +"%d-%m-%Y:%T").txt
+  154  ls
+  155  vi touch $(date +"%d-%m-%Y:%T").txt
+  156  sudo add-apt-repository -y ppa:webupd8team/sublime-text-3
+  157  cd backup
+  158  vi touch $(date +"%d-%m-%Y:%T").txt
+  159  ls
+  160  touch$(date +"%d-%m-%Y:%T").txt
+  161  vi  touch$(date +"%d-%m-%Y:%T").txt
+  162  ls
+  163  history > 14-01-2015:10:33:05.txt 
+  164  ..
+  165  cd ..
+  166  sudo apt-add-repository 'deb http://www.tolaris.com/apt/ precise main'
+  167  wget -q http://www.tolaris.com/apt/tolaris-keyring.gpg -O-
+  168  wget -q http://www.tolaris.com/apt/tolaris-keyring.gpg -O- | sudo apt-key add -
+  169  sudo apt-get update
+  170  sudo apt-get install mysql-query-browser
+  171  uname
+  172  whoami
+  173  sudo add-apt-repository -y ppa:webupd8team/sublime-text-3
+  174  sudo apt-get update; sudo apt-get install -y sublime-text-installer
+  175  git init
+  176  git add assignment
+  177  git commit -m "commit fisrt"
+  178  git init
+  179  git add assignment
+  180  git add assignment;
+  181  ls -a
+  182  cd project
+  183  ls
+  184  ls -a
+  185  git init
+  186  git add assignment
+  187  git commit -m "commit first"
+  188  git remote add origin https://github.com/surbhisingh/HTML-JS.git
+  189  git push -u origin master
+  190  git clone https://github.com/surbhisingh/HTML-JS.git
+  191  cd project
+  192  ls
+  193  git init
+  194  git add assignment2
+  195  git commit -m "secnd assignment:
+  196  "
+  197  git push -u origin master
+  198  git clone https://github.com/surbhisingh/HTML-JS.git
+  199  cd project
+  200  git init
+  201  ls
+  202  git ls
+  203  git add assignment2
+  204  git commit -m "second assignment"
+  205  git push -u origin master
+  206  cd ..
+  207  git clone https://github.com/surbhisingh/backupfiles.git
+  208  cd backup
+  209  ls
+  210  git add (databse)13-01-2015:10:33:05.txt
+  211  ls
+  212  git add 13-01-2015:10:33:05(database).txt
+  213  git add 13-01-2015:10:33:05database.txt
+  214  ls
+  215  git add 13-01-2015:10:33:05.txt
+  216  git init
+  217  git add 13-01-2015:10:33:05.txt
+  218  git commit -m " database backup"
+  219  git commit -m "database"
+  220  git push -u origin master
+  221  git clone https://github.com/surbhisingh/backupfiles.git
+  222  git init
+  223  git add 13-01-2015:10:33:05.txt
+  224  git commit -m "database"
+  225  git push -u origin master
+  226  git remote add origin https://github.com/surbhisingh/backupfiles.git
+  227  git push -u origin master
+  228  git add 13-01-2015:10:33:05.txt
+  229  git commit -m "database"
+  230  git remote add origin https://github.com/surbhisingh/backupfiles.git
+  231  git push -u origin master
+  232  git pull
+  233  git push -u origin master
+  234  git pull origin master
+  235  git push origin master
+  236  gpg --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3
+  237  \curl -sSL https://get.rvm.io | bash -s stable
+  238  rvm list
+  239  sudo apt-get install curl
+  240  rvm list
+  241  sudo su -c "apt-get install curl"
+  242  sudo su -c "curl -L https://get.rvm.io | bash -s stable"
+  243  sudo su -c "usermod -a -G rvm USERNAME"
+  244  sudo su -c "curl -L https://get.rvm.io | bash -s stable"
+  245  sudo apt-get update 
+  246  sudo apt-get install curl git-core -y 
+  247  \curl -sSL https://get.rvm.io | bash -s stable
+  248  sudo apt-add-repository ppa:rael-gc/rvm
+  249  sudo apt-get update
+  250  sudo apt-get install rvm
+  251  rvm install ruby
+  252  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  253  sudo dpkg –I google-chrome-stable_current_amd64.deb
+  254  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  255  sudo dpkg –I google-chrome-stable_current_amd64.deb
+  256  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  257  sudo dpkg –I google-chrome-stable_current_amd64.deb
+  258  sudo apt-add-repository ppa:rael-gc/rvm
+  259  sudo apt-get update
+  260  sudo apt-get install rvm
+  261  man rvm
+  262  rvm list
+  263  sudo apt-get install libgdbm-dev libncurses5-dev automake libtool bison libffi-dev
+  264  curl -L https://get.rvm.io | bash -s stable
+  265  source ~/.rvm/scripts/rvm
+  266  echo "source ~/.rvm/scripts/rvm" >> ~/.bashrc
+  267  rvm install 2.1.5
+  268  rvm use 2.1.5 --default
+  269  rvm install ruby-2.1.5
+  270  cd
+  271  wget http://ftp.ruby-lang.org/pub/ruby/2.1/ruby-2.1.5.tar.gz
+  272  tar -xzvf ruby-2.1.5.tar.gz
+  273  cd ruby-2.1.5/
+  274  ./configure
+  275  make
+  276  sudo make install
+  277  ruby -v
+  278  cd ~
+  279  rvm list
+  280  echo "gem: --no-ri --no-rdoc" > ~/.gemrc
+  281  rvm list
+  282  cd
+  283  wget http://ftp.ruby-lang.org/pub/ruby/2.1/ruby-2.1.5.tar.gz
+  284  tar -xzvf ruby-2.1.5.tar.gz
+  285  cd ruby-2.1.5/
+  286  ./configure
+  287  make
+  288  sudo make install
+  289  ruby -v
+  290  man ruby
+  291  man rvm
+  292  cd ..
+  293  rvm list
+  294  cd ~/ruby-2.1.5
+  295  echo "gem: --no-ri --no-rdoc" > ~/.gemrc
+  296  man ruby
+  297  cd ~
+  298  sudo apt-get install libgdbm-dev libncurses5-dev automake libtool bison libffi-dev
+  299  curl -L https://get.rvm.io | bash -s stable
+  300  sudo apt-get install libgdbm-dev libncurses5-dev automake libtool bison libffi-dev
+  301  curl -L https://get.rvm.io | bash -s stable
+  302  sudo apt-get update
+  303  sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties
+  304  cd
+  305  git clone git://github.com/sstephenson/rbenv.git .rbenv
+  306  echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+  307  echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+  308  exec $SHELL
+  309  git clone git://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
+  310  echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
+  311  exec $SHELL
+  312  rbnev install 2.1.4
+  313  rbnev global 2.1.4
+  314  ruby -v
+  315  rvm list
+  316  sudo apt-get update
+  317  sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties
+  318  sudo apt-get install libgdbm-dev libncurses5-dev automake libtool bison libffi-dev
+  319  curl -L https://get.rvm.io | bash -s stable
+  320  rvm -v
+  321  sudo apt-get update 
+  322  sudo apt-get install curl git-core -y 
+  323  rvm list known
+  324  rvm install ruby-2.1.1
+  325  rvm list known
+  326  # rvm install 2.1
+  327  # ruby --version
+  328  rvm list
+  329  #ruby --version
+  330  sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
+  331  sudo apt-get update
+  332  sudo apt-get install google-chrome-stable
+  333  rvm install ruby-2.1.3
+  334  rvm list
+  335  rvm install ruby-1.9.3
+  336  rvm list
+  337  rvm install ruby 2.0.0
+  338  rvm install ruby-2.0.0
+  339  rvm list
+  340  rvm install ruby-2.1.5
+  341  rvm list
+  342  cd backup
+  343  ls
+  344  history . 19-01-2015:17:38:07.txt
+  345  history > 19-01-2015:17:38:07.txt
+  346  git init
+  347  git add 19-01-2015:17:38:07.txt
+  348  git commit -m "rvm and ruby installation"
+  349  git clone https://github.com/surbhisingh/backupfiles.git
+  350  git add 19-01-2015:17:38:07.txt
+  351  git commit -m "rvm and ruby installation"
+  352  git remote add https://github.com/surbhisingh/backupfiles.git
+  353  git pull
+  354  git pull origin master
+  355  git push origin master
+  356  man chmode
+  357  man chmod
+  358  man ps
+  359  ps
+  360  ps all
+  361  man grep
+  362  rvm list
+  363  rvm use ruby-2.1.5
+  364  irb
+  365  nano rubyex.rb
+  366  ruby rubyex.rb
+  367  rvm install ruby-2.2.0
+  368  rvm list
+  369  rvm use ruby-2.2.0
+  370  ibr
+  371  irb
+  372  cd rubyex
+  373  cd rubyexamples
+  374  nano global_var.rb
+  375  ruby global_var.rb
+  376  nano case.rb
+  377  ruby case.rb
+  378  nano while.rb
+  379  ruby while.rb
+  380  nano dowhile.rb
+  381  ruby dowhile.rb
+  382  nano methods.rb
+  383  ruby methoda.rb
+  384  ruby methods.rb
+  385  nano methos2.rb
+  386  ruby methos2.rb
+  387  nano support.rb
+  388  ruby support.rb
+  389  nano main.rb
+  390  ruby main.rb
+  391  nano main.rb
+  392  nano support.rb
+  393  nano io.rb
+  394  ruby io.rb
+  395  nano stringmethods.rb
+  396  ruby stringmethods.rb
+  397  nano stringmethods.rb
+  398  ruby stringmethods.rb
+  399  nano stringmethods.rb
+  400  irb
+  401  cd ..
+  402  irb
+  403  backup
+  404  cd backup
+  405  ls
+  406  history > 21-01-2015:18:14:35.txt
